@@ -1,0 +1,16 @@
+﻿p {
+    text-align: left;
+    font-family: Arial;
+    font-size: medium;
+    color: #0000FF;
+}
+h1 {
+    font-size: x-large;
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: underline;
+    color: #FF0000;
+    text-align: center;
+}
+body {
+    background-color: #CCCCCC;
+}
